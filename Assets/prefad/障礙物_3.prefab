@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2220030087387205145}
   m_Layer: 0
   m_Name: "\u969C\u7919\u7269_3"
-  m_TagString: Untagged
+  m_TagString: "\u969C\u7919\u7269"
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29,7 +29,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.98, y: -0.82, z: 0}
-  m_LocalScale: {x: 10.310298, y: 10.310298, z: 10.310298}
+  m_LocalScale: {x: 5.4024367, y: 5.537498, z: 5.4024367}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
